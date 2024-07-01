@@ -1,0 +1,42 @@
+As a depositor, I want to have a user interface that's somewhat familiar to me, so that I feel like all the University systems are somewhat joined up.
+As an archivist, I want to restrict access to certain files by IP address and user, so that I can control who can view and access specific digital assets, ensuring that they are not widely accessible.
+As a depositor, I want to deposit and maintain datasets through a simple web interface, so that I don't need to install and learn new software to deposit.
+As a depositor, I want to apply licenses to datasets, so that my IP rights are protected to some extent.
+As a depositor, I want to deposit excessively large files, so that I am not limited in what files I can and cannot deposit.
+As a University IT service, I want to store archived data directly on the HCP object store, so that some features can be made.
+As a camp administrator, I want to be able to remove campers if they do not attend the camp anymore, so that I can keep the records organized.
+As a user, I want to know about other versions of the object or its metadata that might be of use to me.
+As a repository manager, I want to describe various facets of a collection, object, or object component that are not addressable via title, date, name, and subject entities.
+As a Cornell faculty member, I want to have some control over how items within my collection sort in collection contents lists, so that I can control how my work is presented.
+As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron accounts.
+As a repository manager, I want to constrain curatorial access to my unit's assets.
+As a User, I want to add additional properties for repositories.
+As an OlderPerson, I want to receive information from ALFRED by speech technology.
+As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
+As a DigitalRecords Archivist, I want to have the batch ingest tool to recognize and set embargoes, permissions for embargoed items should be allow everyone to view metadata, and collection curator and repository administrators to download the files.
+As a Researcher, I want to have a simple and user-friendly interface for data analysis, so that I can quickly analyze complex datasets without the need for extensive technical skills.
+As a faculty member, I want to maintain versioning of Extension brochures, FAQs, etc., so that only the most current are used/adapted by other CCE Educators in their work.
+As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical
+As an archivist, I want to automatically create access derivatives of digital objects, so that I can provide easy access to a wide range of users without manual intervention.
+As a PI, I want to record metadata adequately for staff changes.
+As a data manager, I want to ensure proper data storage.
+As a Cornell faculty member, I want to ensure that my scholarly work remains exclusive to the repository and cannot be collected or accessed from any other online access point, so that I can maintain control over its distribution and use.
+As a PI, I want to plan data recording.
+As an institutional data manager, I want to know about data privacy and security requirements. 
+As a faculty data steward, I want to see sections on roles.
+As a data librarian, I want to import administrative information into DMP.
+I want to be able to delete a dataset I have published, so that I can remove unwanted data from OpenSpending.
+I want to know what my data needs to be able to be visualized on a map, so that I can visualize it on a map.
+As a Data Publishing User, I want to be able to delete a dataset I have published.
+I want to know all the collections and objects in the DAMS for which I have custodial responsibility.
+As the DAMS manager, I want to list all formal collections in the DAMS.
+As a repository manager, I want to compose collections.
+As a user, I want to know about various facets of a collection, object, or object component, such as scope and content, various identifiers, conditions governing use/access, etc.
+As a user, I want to scope my searches for collections, objects, or object components to a specific language.
+As a Cornell faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access point, so that I can raise the profile of my work.
+As an archivist, I want to make as much archival material as possible available for use, so that I can fulfill the RAC's mission and provide broad access to our collections.
+As an archivist, I want to restrict access to groups of files and set specific date-based restrictions, so that I have tight control over who can access certain digital objects and when they can do so.
+As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered.
+As a Researcher, I want to have access to advanced scripting and coding capabilities within the data analysis tool, so that I can perform highly customized and complex data analyses.
+
+

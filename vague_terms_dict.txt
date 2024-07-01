@@ -1,0 +1,117 @@
+depending,conditional vagueness
+necessary,conditional vagueness
+appropriate,conditional vagueness
+appropriately,conditional vagueness
+inappropriate,conditional vagueness
+if practical,conditional vagueness
+as needed,conditional vagueness
+as applicable,conditional vagueness
+as appropriate,conditional vagueness
+otherwise reasonably,conditional vagueness
+sometimes,conditional vagueness
+from time to time,conditional vagueness
+generally,generality vagueness
+general,generality vagueness
+mostly,generality vagueness
+widely,generality vagueness
+commonly,generality vagueness
+usually,generality vagueness
+normally,generality vagueness
+typically,generality vagueness
+ordinarily,generality vagueness
+customarily,generality vagueness
+largely,generality vagueness
+often,generality vagueness
+reasonable,generality vagueness
+several,generality vagueness
+primarily,generality vagueness
+etc,generality vagueness
+among other things,generality vagueness
+and so forth,generality vagueness
+and so on,generality vagueness
+more or less,generality vagueness
+maximum,generality vagueness
+maximize,generality vagueness
+minimum,generality vagueness
+minimize,generality vagueness
+something,generality vagueness
+somewhere,generality vagueness
+never,generality vagueness
+always,generality vagueness
+periodically,generality vagueness
+nearly,generality vagueness
+approximately,generality vagueness
+approximate,generality vagueness
+almost,generality vagueness
+close to,generality vagueness
+normal,generality vagueness
+may,modality vagueness
+maybe,modality vagueness
+might,modality vagueness
+likely,modality vagueness
+possible,modality vagueness
+possibly,modality vagueness
+whoever,modality vagueness
+whenever,modality vagueness
+wherever,modality vagueness
+anyone,quantity vagueness
+anybody,quantity vagueness
+anything,quantity vagueness
+everybody,quantity vagueness
+everything,quantity vagueness
+everyone,quantity vagueness
+numerous,quantity vagueness
+some,quantity vagueness
+somewhat,quantity vagueness
+most,quantity vagueness
+few,quantity vagueness
+much,quantity vagueness
+many,quantity vagueness
+various,quantity vagueness
+large,quantity vagueness
+big,quantity vagueness
+small,quantity vagueness
+robust, quantity vagueness
+high,quantity vagueness
+low,quantity vagueness
+lower,quantity vagueness
+higher,quantity vagueness
+user-friendly,combinatory vagueness
+friendly,combinatory vagueness
+accurately,combinatory vagueness
+efficiently,combinatory vagueness
+easily,combinatory vagueness
+accurate,combinatory vagueness
+efficient,combinatory vagueness
+easy,combinatory vagueness
+proper,combinatory vagueness
+properly,combinatory vagueness
+excessively,combinatory vagueness
+simple,combinatory vagueness
+certain,combinatory vagueness
+great,combinatory vagueness
+greatly,combinatory vagueness
+better,combinatory vagueness
+worse, combinatory vagueness
+good,combinatory vagueness
+bad,combinatory vagueness
+highly,combinatory vagueness
+fast,combinatory vagueness
+fastly,combinatory vagueness
+poor,combinatory vagueness
+poorly,combinatory vagueness
+slow,combinatory vagueness
+slowly,combinatory vagueness
+wrong,combinatory vagueness
+adequate,combinatory vagueness
+adequately,combinatory vagueness
+reliable,combinatory vagueness
+reliably,combinatory vagueness
+satisfactory,combinatory vagueness
+clearly,combinatory vagueness
+stable,combinatory vagueness
+sufficient,combinatory vagueness
+sufficiently,combinatory vagueness
+improve,combinatory vagueness
+quick,combinatory vagueness
+quickly,combinatory vagueness

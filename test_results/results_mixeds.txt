@@ -1,0 +1,1100 @@
+User Story: ﻿As a Data user, I want to have the 12-19-2017 deletions processed.
+Completeness Problems: Problems Found
+Completeness Test: Failed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 1.9404380321502686
+Ambiguity Test Time: 0.2690596580505371
+Consistency Test Time: 2572.9603135585785
+
+User Story: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.24605464935302734
+Ambiguity Test Time: 0.004000425338745117
+Consistency Test Time: 203.6127645969391
+
+User Story: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.38007688522338867
+Ambiguity Test Time: 0.004001140594482422
+Consistency Test Time: 170.88701367378235
+
+User Story: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.44410157203674316
+Ambiguity Test Time: 0.004011631011962891
+Consistency Test Time: 146.41964983940125
+
+User Story: As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.38208627700805664
+Ambiguity Test Time: 0.002999544143676758
+Consistency Test Time: 390.9242377281189
+
+User Story: As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.7471685409545898
+Ambiguity Test Time: 0.005002021789550781
+Consistency Test Time: 361.75030755996704
+
+User Story: As a DevOps engineer, I want New Relic to provide useful data across all applications.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.1780397891998291
+Ambiguity Test Time: 0.004008293151855469
+Consistency Test Time: 24.128289937973022
+
+User Story: As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3860774040222168
+Ambiguity Test Time: 0.005008220672607422
+Consistency Test Time: 123.66340684890747
+
+User Story: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3760848045349121
+Ambiguity Test Time: 0.004111051559448242
+Consistency Test Time: 97.76342558860779
+
+User Story: As a Broker user, I want to Upload and Validate the error message to have accurate text.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.23205304145812988
+Ambiguity Test Time: 0.004000186920166016
+Consistency Test Time: 176.25196409225464
+
+User Story: As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.92620849609375
+Ambiguity Test Time: 0.005000114440917969
+Consistency Test Time: 146.57345986366272
+
+User Story: As a Website user, I want to access published FABS files, so that I can see the new files as they come in.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4210946559906006
+Ambiguity Test Time: 0.003686189651489258
+Consistency Test Time: 51.04380965232849
+
+User Story: As an owner, I want to be sure that USAspending only send grant records to my system.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.26205992698669434
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 150.85287714004517
+
+User Story: As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3210723400115967
+Ambiguity Test Time: 0.003375530242919922
+Consistency Test Time: 339.89766812324524
+
+User Story: As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5021131038665771
+Ambiguity Test Time: 0.004010438919067383
+Consistency Test Time: 313.9085533618927
+
+User Story: As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.49711132049560547
+Ambiguity Test Time: 0.0040035247802734375
+Consistency Test Time: 275.2342863082886
+
+User Story: As a user, I want to access the raw agency published files from FABS via USAspending.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.22605109214782715
+Ambiguity Test Time: 0.004000425338745117
+Consistency Test Time: 247.85723853111267
+
+User Story: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.23505258560180664
+Ambiguity Test Time: 0.004000425338745117
+Consistency Test Time: 510.14834475517273
+
+User Story: As a Broker user, I want  to help create content mockups, so that I can submit my data efficiently.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3318462371826172
+Ambiguity Test Time: 0.003008604049682617
+Consistency Test Time: 119.92711019515991
+
+User Story: As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.599135160446167
+Ambiguity Test Time: 0.0040090084075927734
+Consistency Test Time: 77.59145426750183
+
+User Story: As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.49811458587646484
+Ambiguity Test Time: 0.004000425338745117
+Consistency Test Time: 122.5762357711792
+
+User Story: As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.30006837844848633
+Ambiguity Test Time: 0.0036163330078125
+Consistency Test Time: 49.64596247673035
+
+User Story: As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.420093297958374
+Ambiguity Test Time: 0.004292964935302734
+Consistency Test Time: 24.453272819519043
+
+User Story: As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.33307456970214844
+Ambiguity Test Time: 0.004000186920166016
+Consistency Test Time: 98.78173327445984
+
+User Story: As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
+Completeness Problems: Problems Found
+Completeness Test: Failed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.34607982635498047
+Ambiguity Test Time: 0.007001161575317383
+Consistency Test Time: 70.88660049438477
+
+User Story: As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.32906436920166016
+Ambiguity Test Time: 0.005002021789550781
+Consistency Test Time: 265.6510465145111
+
+User Story: As an data user, I want to receive updates to FABS records.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.1870410442352295
+Ambiguity Test Time: 0.004277229309082031
+Consistency Test Time: 24.101282835006714
+
+User Story: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.22404956817626953
+Ambiguity Test Time: 0.004001140594482422
+Consistency Test Time: 529.5526778697968
+
+User Story: As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4881105422973633
+Ambiguity Test Time: 0.003999233245849609
+Consistency Test Time: 260.2065291404724
+
+User Story: As an agency user, I want to ensure that deleted FSRS records are not included in a submission.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.31507039070129395
+Ambiguity Test Time: 0.004001140594482422
+Consistency Test Time: 494.34674406051636
+
+User Story: As a website user, I want to see updated financial assistance data daily.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.18304014205932617
+Ambiguity Test Time: 0.004000663757324219
+Consistency Test Time: 24.83155918121338
+
+User Story: As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple times for the same submission.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6361427307128906
+Ambiguity Test Time: 0.006001472473144531
+Consistency Test Time: 222.1201434135437
+
+User Story: As an Owner, I want to reset the environment to only take Staging MAX permissions, so that I can ensure that the FABS testers no longer have access.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5335307121276855
+Ambiguity Test Time: 0.004331827163696289
+Consistency Test Time: 48.18118691444397
+
+User Story: As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4100914001464844
+Ambiguity Test Time: 0.007727861404418945
+Consistency Test Time: 196.30640029907227
+
+User Story: As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.31107187271118164
+Ambiguity Test Time: 0.0040018558502197266
+Consistency Test Time: 159.8857822418213
+
+User Story: As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2180490493774414
+Ambiguity Test Time: 0.0050106048583984375
+Consistency Test Time: 409.86921191215515
+
+User Story: As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.25905847549438477
+Ambiguity Test Time: 0.0030090808868408203
+Consistency Test Time: 396.51498579978943
+
+User Story: As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.30406832695007324
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 215.33684659004211
+
+User Story: As an agency user, I want to be confident that the data coming from SAM is complete.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.27106213569641113
+Ambiguity Test Time: 0.005010366439819336
+Consistency Test Time: 394.16330766677856
+
+User Story: As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4100933074951172
+Ambiguity Test Time: 0.0035898685455322266
+Consistency Test Time: 193.78344774246216
+
+User Story: As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.18104076385498047
+Ambiguity Test Time: 0.004999876022338867
+Consistency Test Time: 341.01604771614075
+
+User Story: As a broker team member, I want to make some updates to the SQL codes for clarity.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.17103981971740723
+Ambiguity Test Time: 0.004003286361694336
+Consistency Test Time: 98.13699269294739
+
+User Story: As an agency user, I want to have all derived data elements derived properly.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2160491943359375
+Ambiguity Test Time: 0.004009723663330078
+Consistency Test Time: 381.16869282722473
+
+User Story: As a broker team member, I want to add the 00***** and 00FORGN PPoPCode cases to the derivation logic.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.21504783630371094
+Ambiguity Test Time: 0.005000591278076172
+Consistency Test Time: 80.26779651641846
+
+User Story: As a data user, I want to see the office names derived from office codes, so that I can have appropriate context for understanding them.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4200935363769531
+Ambiguity Test Time: 0.005012989044189453
+Consistency Test Time: 52.919676780700684
+
+User Story: As a broker user, I want the historical FABS loader to derive fields, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.32207250595092773
+Ambiguity Test Time: 0.004510641098022461
+Consistency Test Time: 106.98874139785767
+
+User Story: As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4270949363708496
+Ambiguity Test Time: 0.005010128021240234
+Consistency Test Time: 53.1611213684082
+
+User Story: As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5811305046081543
+Ambiguity Test Time: 0.004716634750366211
+Consistency Test Time: 189.1766493320465
+
+User Story: As a user, I don't want to see NASA grants displayed as contracts.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2360551357269287
+Ambiguity Test Time: 0.004647493362426758
+Consistency Test Time: 163.92490935325623
+
+User Story: As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.8021798133850098
+Ambiguity Test Time: 0.009002208709716797
+Consistency Test Time: 130.54230284690857
+
+User Story: As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3070683479309082
+Ambiguity Test Time: 0.006001472473144531
+Consistency Test Time: 104.8830795288086
+
+User Story: As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.25905728340148926
+Ambiguity Test Time: 0.003001689910888672
+Consistency Test Time: 26.017420768737793
+
+User Story: As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2800619602203369
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 339.46815848350525
+
+User Story: As an agency user, I want to use the schema v1.1 headers in my FABS file.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.18504095077514648
+Ambiguity Test Time: 0.005009889602661133
+Consistency Test Time: 311.79017639160156
+
+User Story: As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.19304156303405762
+Ambiguity Test Time: 0.004999399185180664
+Consistency Test Time: 26.012869119644165
+
+User Story: As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2780630588531494
+Ambiguity Test Time: 0.004653453826904297
+Consistency Test Time: 73.21049475669861
+
+User Story: As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.7901782989501953
+Ambiguity Test Time: 0.0060083866119384766
+Consistency Test Time: 295.34677481651306
+
+User Story: As an Agency user, I want FPDS data to be up-to-date daily.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.17903995513916016
+Ambiguity Test Time: 0.0039997100830078125
+Consistency Test Time: 271.7656931877136
+
+User Story: As a user, I want to access the raw agency published files from FABS via USAspending.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2160494327545166
+Ambiguity Test Time: 0.00499272346496582
+Consistency Test Time: 239.15765118598938
+
+User Story: As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3700828552246094
+Ambiguity Test Time: 0.00500941276550293
+Consistency Test Time: 146.68463730812073
+
+User Story: As a user, I want to generate and validate D Files from FABS and FPDS data.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.22005105018615723
+Ambiguity Test Time: 0.005003690719604492
+Consistency Test Time: 48.788774251937866
+
+User Story: As an Agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.41309285163879395
+Ambiguity Test Time: 0.004003047943115234
+Consistency Test Time: 239.15440273284912
+
+User Story: As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2500579357147217
+Ambiguity Test Time: 0.006001710891723633
+Consistency Test Time: 217.50962471961975
+
+User Story: As a tester, I want to have access to test features in environments other than Staging, so that I can test any nonProd feature in any environment.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.36608219146728516
+Ambiguity Test Time: 0.005002021789550781
+Consistency Test Time: 49.7046639919281
+
+User Story: As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.45310163497924805
+Ambiguity Test Time: 0.00500941276550293
+Consistency Test Time: 264.39268732070923
+
+User Story: As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4190950393676758
+Ambiguity Test Time: 0.006001472473144531
+Consistency Test Time: 241.92749452590942
+
+User Story: As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.1690359115600586
+Ambiguity Test Time: 0.004000663757324219
+Consistency Test Time: 196.58627796173096
+
+User Story: As a Developer , I want the historical FPDS data loader to include both extracted historical data and FPDS feed data.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.31206178665161133
+Ambiguity Test Time: 0.006001949310302734
+Consistency Test Time: 121.2764413356781
+
+User Story: As an Agency user, I want historical FPDS data loaded.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.15203380584716797
+Ambiguity Test Time: 0.004001140594482422
+Consistency Test Time: 171.38652062416077
+
+User Story: As an Agency user, I want to accurately see who created a submission, so that I'm not confused about who last updated a submission.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.37708497047424316
+Ambiguity Test Time: 0.0040013790130615234
+Consistency Test Time: 146.94132471084595
+
+User Story: As an agency user, I want to get File F in the correct format.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.15703511238098145
+Ambiguity Test Time: 0.005003929138183594
+Consistency Test Time: 177.24841809272766
+
+User Story: As an Agency user, I want to better understand my file-level errors.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.15303277969360352
+Ambiguity Test Time: 0.005007505416870117
+Consistency Test Time: 123.58248162269592
+
+User Story: As a Developer , I want to provide FABS groups that function under the FREC paradigm.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.21904945373535156
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 93.80270314216614
+
+User Story: As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3100724220275879
+Ambiguity Test Time: 0.0069942474365234375
+Consistency Test Time: 25.13110637664795
+
+User Story: As an owner, I only want zero-padded fields, so that I can justify padding.
+Completeness Problems: Problems Found
+Completeness Test: Failed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2580578327178955
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 43.94699764251709
+
+User Story: As a Broker user, I want to submit records for individual recipients without receiving a DUNS error.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2200484275817871
+Ambiguity Test Time: 0.005002021789550781
+Consistency Test Time: 70.08223986625671
+
+User Story: As a user, I want more information about how many rows will be published prior to deciding whether to publish.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3560793399810791
+Ambiguity Test Time: 0.005576372146606445
+Consistency Test Time: 28.47954249382019
+
+User Story: As a Developer, I want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3780863285064697
+Ambiguity Test Time: 0.00600123405456543
+Consistency Test Time: 77.51240229606628
+
+User Story: As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.23505377769470215
+Ambiguity Test Time: 0.005008697509765625
+Consistency Test Time: 236.69750118255615
+
+User Story: As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5281181335449219
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 26.98151397705078
+
+User Story: As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3300745487213135
+Ambiguity Test Time: 0.00400090217590332
+Consistency Test Time: 77.65234398841858
+
+User Story: As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.31307172775268555
+Ambiguity Test Time: 0.0040013790130615234
+Consistency Test Time: 206.92209458351135
+
+User Story: As a data user, I want to access two additional fields from the FPDS data pull.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.21004676818847656
+Ambiguity Test Time: 0.004568576812744141
+Consistency Test Time: 25.796680212020874
+
+User Story: As a FABS user, I want additional helpful info in the submission dashboard, so that I can better manage submissions and IG requests.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2750539779663086
+Ambiguity Test Time: 0.004405975341796875
+Consistency Test Time: 181.33899688720703
+
+User Story: As a FABS user, I want to download the uploaded FABS file, so that I can get the uploaded file.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2980659008026123
+Ambiguity Test Time: 0.004000663757324219
+Consistency Test Time: 160.62683582305908
+
+User Story: As a Developer I want to quickly access Broker application data, so that I can investigate issues.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2780623435974121
+Ambiguity Test Time: 0.0030014514923095703
+Consistency Test Time: 54.136492013931274
+
+User Story: As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.43909740447998047
+Ambiguity Test Time: 0.005001544952392578
+Consistency Test Time: 27.162635326385498
+
+User Story: As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2470550537109375
+Ambiguity Test Time: 0.004607439041137695
+Consistency Test Time: 136.6039595603943
+
+User Story: As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.26006054878234863
+Ambiguity Test Time: 0.0040471553802490234
+Consistency Test Time: 109.72336888313293
+
+User Story: As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5781304836273193
+Ambiguity Test Time: 0.004009723663330078
+Consistency Test Time: 79.97301769256592
+
+User Story: As a FABS user, I want to have my validations run in a reasonable amount of time.
+Completeness Problems: Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.21904945373535156
+Ambiguity Test Time: 0.004000186920166016
+Consistency Test Time: 53.28870248794556
+
+User Story: As a FABS user, I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3200724124908447
+Ambiguity Test Time: 0.005003452301025391
+Consistency Test Time: 30.31829810142517
+
+User Story: As an agency user, I want to know when the submission periods start and end, so that I can know when the submission start and end.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.43709802627563477
+Ambiguity Test Time: 0.005419492721557617
+Consistency Test Time: 56.42832350730896
+
+User Story: As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4180936813354492
+Ambiguity Test Time: 0.004001140594482422
+Consistency Test Time: 28.568444967269897
+
+User Story: As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4090917110443115
+Ambiguity Test Time: 0.003000497817993164
+Consistency Test Time: 27.258822679519653
+
+User Story: As a ProspectiveApplicant, I want to research requirements and to select a service, so that I can find the relevant service and/or application type to initiate via the online portal.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5431218147277832
+Ambiguity Test Time: 0.004011392593383789
+Consistency Test Time: 27.7664155960083
+
+User Story: As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5061147212982178
+Ambiguity Test Time: 0.0030002593994140625
+Consistency Test Time: 82.88219547271729
+
+User Story: As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5501253604888916
+Ambiguity Test Time: 0.004001617431640625
+Consistency Test Time: 27.39994525909424
+
+User Story: As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.367081880569458
+Ambiguity Test Time: 0.00500178337097168
+Consistency Test Time: 53.57483172416687
+
+User Story: As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.30406832695007324
+Ambiguity Test Time: 0.0030007362365722656
+Consistency Test Time: 26.58717918395996
+

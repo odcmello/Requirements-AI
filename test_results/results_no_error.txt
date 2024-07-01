@@ -1,0 +1,561 @@
+User Story: As a depositor, I want to deposit and maintain datasets through Pure, so that I have a single onestop shop for managing my research outputs.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 2.1224799156188965
+Ambiguity Test Time: 0.10763049125671387
+Consistency Test Time: 459.78174233436584
+
+User Story: As a depositor, I want to deposit and maintain datasets through Virtual Research Environments and other workflow tools, so that I can continue to work with tools with which I'm familiar.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6191387176513672
+Ambiguity Test Time: 0.005001544952392578
+Consistency Test Time: 445.8071358203888
+
+User Story: As a depositor, I want to deposit the files that I have, so that I don't have to spend a lot of time finding the right version and converting to the right format.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.7111594676971436
+Ambiguity Test Time: 0.004008769989013672
+Consistency Test Time: 419.6096901893616
+
+User Story: As a depositor, I want to place data under an embargo, so that my right of first use is protected, and I can fulfil my confidentiality responsibilities.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5291197299957275
+Ambiguity Test Time: 0.0040018558502197266
+Consistency Test Time: 419.0930621623993
+
+User Story: As a depositor, I want to apply licenses to datasets, so that my IP rights are protected appropriately.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.2800881862640381
+Ambiguity Test Time: 0.0033571720123291016
+Consistency Test Time: 395.3249897956848
+
+User Story: As a depositor, I want to allow my collaborators privileged access to datasets, so that we continue to have a productive relationship.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3630838394165039
+Ambiguity Test Time: 0.003354787826538086
+Consistency Test Time: 344.6171338558197
+
+User Story: As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.48410844802856445
+Ambiguity Test Time: 0.003999948501586914
+Consistency Test Time: 348.85159158706665
+
+User Story: As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.31907105445861816
+Ambiguity Test Time: 0.0032317638397216797
+Consistency Test Time: 310.21193742752075
+
+User Story: As a depositor, I want to mint DOIs for my data, so that it can be discovered and cited more easily and citations can be tracked so that I can receive credit.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.9952244758605957
+Ambiguity Test Time: 0.0030100345611572266
+Consistency Test Time: 272.4223713874817
+
+User Story: As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.76017165184021
+Ambiguity Test Time: 0.0050106048583984375
+Consistency Test Time: 248.96971440315247
+
+User Story: As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still register it with the University and I don't have to deposit my data in multiple places.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 1.082244634628296
+Ambiguity Test Time: 0.004000663757324219
+Consistency Test Time: 226.0214490890503
+
+User Story: As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Failed
+Completeness Test Time: 0.31106996536254883
+Ambiguity Test Time: 0.0040094852447509766
+Consistency Test Time: 203.9883327484131
+
+User Story: As a depositor, I want to track downloads of my data, so that I can demonstrate the impact of my work.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3070688247680664
+Ambiguity Test Time: 0.003000020980834961
+Consistency Test Time: 181.77419090270996
+
+User Story: As a depositor, I want to track citations of my data, so that I can demonstrate the impact of my work
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.29506587982177734
+Ambiguity Test Time: 0.003001689910888672
+Consistency Test Time: 158.99520587921143
+
+User Story: As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5281181335449219
+Ambiguity Test Time: 0.003999948501586914
+Consistency Test Time: 136.06795024871826
+
+User Story: As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can find my data more easily.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3450789451599121
+Ambiguity Test Time: 0.004010200500488281
+Consistency Test Time: 113.86104369163513
+
+User Story: As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrated and whole project workflow is linked together.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5651266574859619
+Ambiguity Test Time: 0.0033998489379882812
+Consistency Test Time: 90.70432639122009
+
+User Story: As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3380770683288574
+Ambiguity Test Time: 0.004011869430541992
+Consistency Test Time: 67.92664957046509
+
+User Story: As a depositor, I want to manage multiple versions of the same dataset, so that changes to the dataset are transparent and do not compromise research integrity.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4921114444732666
+Ambiguity Test Time: 0.004060268402099609
+Consistency Test Time: 45.33056354522705
+
+User Story: As a depositor, I want to allow others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.36608147621154785
+Ambiguity Test Time: 0.004008054733276367
+Consistency Test Time: 22.73813533782959
+
+User Story: As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3120694160461426
+Ambiguity Test Time: 0.004000186920166016
+Consistency Test Time: 181.7989318370819
+
+User Story: As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4410989284515381
+Ambiguity Test Time: 0.0030090808868408203
+Consistency Test Time: 162.83813762664795
+
+User Story: As a data reuser, I want to examine and identify deposited files, so that I can make a preliminary assessment of usefulness without downloading the whole dataset.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5601258277893066
+Ambiguity Test Time: 0.0030007362365722656
+Consistency Test Time: 137.80144047737122
+
+User Story: As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3180708885192871
+Ambiguity Test Time: 0.0037915706634521484
+Consistency Test Time: 113.31317043304443
+
+User Story: As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.609138011932373
+Ambiguity Test Time: 0.004143238067626953
+Consistency Test Time: 90.46894264221191
+
+User Story: As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3250730037689209
+Ambiguity Test Time: 0.003992795944213867
+Consistency Test Time: 67.69268989562988
+
+User Story: As a data reuser, I want to search the archive through Primo , so that I can search books, articles and data all in one place.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.349078893661499
+Ambiguity Test Time: 0.003000020980834961
+Consistency Test Time: 45.37903809547424
+
+User Story: As a data reuser, I want to see different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5491259098052979
+Ambiguity Test Time: 0.004426002502441406
+Consistency Test Time: 22.74247980117798
+
+User Story: As an externalcollaborator, I want to gain privileged access to data for projects in which I am involved, so that I can collaborate effectively.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4611063003540039
+Ambiguity Test Time: 0.005001544952392578
+Consistency Test Time: 22.57528829574585
+
+User Story: As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5611464977264404
+Ambiguity Test Time: 0.004012346267700195
+Consistency Test Time: 45.15089726448059
+
+User Story: AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.290067195892334
+Ambiguity Test Time: 0.003999471664428711
+Consistency Test Time: 22.56736660003662
+
+User Story: As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer required to maintain my own archive of facility data and researchers can access their own data as needed.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.8631949424743652
+Ambiguity Test Time: 0.0040013790130615234
+Consistency Test Time: 22.896645069122314
+
+User Story: As a Bath Data Archive administrator, I want to make some checks on deposited datasets before they are made public, so that consistent quality of metadata is maintained, compliance with policies can be checked and details of licensing can be checked.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 1.2522811889648438
+Ambiguity Test Time: 0.0050013065338134766
+Consistency Test Time: 136.02006459236145
+
+User Story: As a Bath Data Archive administrator, I want to require a minimum set of metadata, so that consistent quality of metadata is maintained.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3140695095062256
+Ambiguity Test Time: 0.003837108612060547
+Consistency Test Time: 112.81067371368408
+
+User Story: As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.
+Completeness Problems: Problems Found
+Completeness Test: Failed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.40209078788757324
+Ambiguity Test Time: 0.005001068115234375
+Consistency Test Time: 90.83047223091125
+
+User Story: As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.3140702247619629
+Ambiguity Test Time: 0.003343820571899414
+Consistency Test Time: 72.71551179885864
+
+User Story: As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not lost if they close down.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4391136169433594
+Ambiguity Test Time: 0.0050122737884521484
+Consistency Test Time: 45.30909609794617
+
+User Story: As a Bath Data Archive administrator, I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.35708069801330566
+Ambiguity Test Time: 0.0040013790130615234
+Consistency Test Time: 22.514330625534058
+
+User Story: As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6471667289733887
+Ambiguity Test Time: 0.003001689910888672
+Consistency Test Time: 112.99528360366821
+
+User Story: As a Research Information manager, I want to include records for externally held data complete, so that the university's record of data holdings is complete.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.33907485008239746
+Ambiguity Test Time: 0.0040018558502197266
+Consistency Test Time: 90.14727973937988
+
+User Story: As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrated.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.4431002140045166
+Ambiguity Test Time: 0.0040018558502197266
+Consistency Test Time: 69.13843297958374
+
+User Story: As a Research Information manager, I want to segment the view and download statistics by country and sector so that impact of datasets outside academia can be demonstrated.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.39908862113952637
+Ambiguity Test Time: 0.004358768463134766
+Consistency Test Time: 50.02984809875488
+
+User Story: As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.5921339988708496
+Ambiguity Test Time: 0.004321098327636719
+Consistency Test Time: 23.673338890075684
+
+User Story: As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6161394119262695
+Ambiguity Test Time: 0.004242658615112305
+Consistency Test Time: 93.10570311546326
+
+User Story: As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be kept low.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6041347980499268
+Ambiguity Test Time: 0.0050008296966552734
+Consistency Test Time: 72.82903385162354
+
+User Story: As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be made.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.38808703422546387
+Ambiguity Test Time: 0.005033969879150391
+Consistency Test Time: 47.22460460662842
+
+User Story: As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6991572380065918
+Ambiguity Test Time: 0.004001617431640625
+Consistency Test Time: 24.896209001541138
+
+User Story: As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Failed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.41909360885620117
+Ambiguity Test Time: 0.004472970962524414
+Consistency Test Time: 25.451902627944946
+
+User Story: As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.7011580467224121
+Ambiguity Test Time: 0.005002021789550781
+Consistency Test Time: 25.381256580352783
+
+User Story: As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.801180362701416
+Ambiguity Test Time: 0.005315542221069336
+Consistency Test Time: 50.722854137420654
+
+User Story: As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
+Completeness Problems: No Problems Found
+Completeness Test: Passed
+Ambiguity Problems: No Problems Found
+Ambiguity Test: Passed
+Consistency Problems: No Problems Found
+Consistency Test: Passed
+Completeness Test Time: 0.6841545104980469
+Ambiguity Test Time: 0.004992246627807617
+Consistency Test Time: 24.70755362510681
+

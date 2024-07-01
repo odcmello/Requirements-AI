@@ -1,0 +1,8 @@
+As a Data Publishing User, I want to be able to completely delete a dataset I have published.
+As a Data Publishing User, I want to keep record of a dataset I have published.
+As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical.
+As an archivist, I want to automatically create access derivatives of digital objects, so that I can provide easy access to a wide range of users without manual intervention.
+As an archivist, I want to record metadata adequately for staff changes.
+As a data manager, I want to ensure proper data storage.
+As a depositor, I want to have a user interface that's somewhat familiar to me, so that I feel like all the University systems are somewhat joined up.
+As a Data Publishing User, I want to store accounts in a dataset, so that I can record students information.
