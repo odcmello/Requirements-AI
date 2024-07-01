@@ -1,6 +1,5 @@
 @software{Mello;2024,
-  author = {Mello, Otavio da Cruz and Bot, Hew},
-  month = {12},
+  author = {Mello, Otavio da Cruz},
   title = {{Ambiguity, Inconsistency and Incompleteness Detector for User Stories}},
   url = {https://github.com/odcmello/Requirements-AI},
   year = {2024}
